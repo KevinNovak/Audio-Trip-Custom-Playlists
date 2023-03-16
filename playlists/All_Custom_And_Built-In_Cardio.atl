@@ -1,0 +1,1091 @@
+{
+    "localTitle": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "title": "All Custom + Built-In Cardio [Feb 2023]",
+    "items": [
+        {
+            "songTitle": "495 GO! Little Sister Emotion",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "fb65097dcfdff71a761a0b445f330ae0ec1a9b20cdac7b87250cfd5d5cd0076b",
+            "choreoName": "Little sister doki doki",
+            "choreoID": "cust_09ce271e493d8a2cf40e0aefcb030986d902905db0aeb48a0c524d2a98c4f447",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 185.0933380126953
+        },
+        {
+            "songTitle": "Badass Woman",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "857f24036a3c337974dac088768d1e221b180488fdaab2e07662031e3699d87f",
+            "choreoName": "Cardio (Go get it you badass woman!)",
+            "choreoID": "cust_f309cb1280cc9acdba48151a010a5eec703c4a8a0ed16fba9689340a3727767d",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 208.6964874267578
+        },
+        {
+            "songTitle": "Bedroom (ft. Bright Sparks)",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "3854c2fb8f449ba216a765f7821e3dc81a637def33ec8695cc3166989ede7d18",
+            "choreoName": "Cardio+",
+            "choreoID": "cust_6b88d39b00b9c8e9d10eaaad928ab210af5f6c5dfad80cfa02393a04d502d61e",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 178.94073486328126
+        },
+        {
+            "songTitle": "Booty",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "09ad97ec3901470b16bdd4b82e98a592eef06effd54ca76847088a532d30bbcb",
+            "choreoName": "Cardio",
+            "choreoID": "cust_a6ea31f4f5821c4363515d526e2a5dadaf756e9cd75b0aeedf799fc1d7f27dce",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 211.82998657226563
+        },
+        {
+            "songTitle": "Boyfriend",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "48f11192bb1ad828b95c50b7dc8e24a189c8a562e4f9f62da284b41313de993e",
+            "choreoName": "Cardio",
+            "choreoID": "cust_dbb57a31343756915aa26566708424c96dcfc47f9659116524634f4bc00703c8",
+            "choreoIndex": 3,
+            "mode": 2,
+            "length": 162.5164794921875
+        },
+        {
+            "songTitle": "Butter",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "0ba1fb1cf70a22225c9a93a815f3bf7b0e8c06080c69b73ddcdd4f03f4262bde",
+            "choreoName": "Cardio",
+            "choreoID": "cust_ae4d67c6bfa7d01e5c439876d0e6f900e49e25fbd4b70cca71c4277cccadc92f",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 165.30966186523438
+        },
+        {
+            "songTitle": "Butter x Dynamite",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "a1bb9f8472d289a6ac1324480cd2c2b28ee6d27ee8ff5d5f8bb7d10315460241",
+            "choreoName": "Cardio",
+            "choreoID": "cust_8a0117e5d46573669edfac867cb0a52d6887458eff6c69b15a25afe201977a2f",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 169.8772430419922
+        },
+        {
+            "songTitle": "Cake by the ocean",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "40bfd514d05631a73626f42d1883b1368db5e76db781ab790630b8bffa821bfa",
+            "choreoName": "Cardio",
+            "choreoID": "cust_d684bc0d1c5c728625acaa530307896d89758ad94ab7c05962b5a0725ae1fb42",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 218.91773986816407
+        },
+        {
+            "songTitle": "Camel by Camel",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "7753b08b38abc236534084310d64da85bfbb60bc707bcd040069d5594e12984e",
+            "choreoName": "Supercardioid (SQUATS AND JUMPS)",
+            "choreoID": "cust_2c808822eb332b20c9c841238860c7ca9403a200f13cbdf3522f74ec129eb87e",
+            "choreoIndex": 1,
+            "mode": 2,
+            "length": 238.95655822753907
+        },
+        {
+            "songTitle": "CAN'T NOBODY",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "afc91b53161ec4bd04a9b982a3b13737d3e5da4e3578845996a37f2fdf2a90fc",
+            "choreoName": "Cardio",
+            "choreoID": "cust_27059e7e850555b32c7ba4f8141edb38049bbf69839dbc45e4e8e65647b42c83",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 210.5121307373047
+        },
+        {
+            "songTitle": "Cherry Pie",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "b64f6b1c5907edee91362b39c76f880b0458d20333cdd17c5df2e411534f6517",
+            "choreoName": "Cardio",
+            "choreoID": "cust_5cb76ef8ac80fb7f5fedd3e557b13f2535931994b80cfb305d76f365eea10d6a",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 197.52891540527345
+        },
+        {
+            "songTitle": "Closebusters (Explicit)",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "00ccecc66a035cac0adcdd86480a25cf4488d2dfcd5a328234a0851eb2e72618",
+            "choreoName": "Cardio",
+            "choreoID": "cust_8d89b0cc007dd089dc4b2594f822843167e22f7aa3b5d8ee8ebfa951ccdd33d3",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 224.29698181152345
+        },
+        {
+            "songTitle": "Cold Heart (PNAU Remix)",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "41991e035276cea43d1c33056200b9875d370991a6f03f527b88bd30ae6ca9a8",
+            "choreoName": "Cardio",
+            "choreoID": "cust_11e63e99bd607f937e0a09fc6a4c290912526e6aa38f6be2916041a8848de2ca",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 201.94590759277345
+        },
+        {
+            "songTitle": "Desert Years",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "c2eb533d4c71a90d54ea44501c87fac10c599af1532ad7e72c3bb1a70cc1e9f2",
+            "choreoName": "Unguided jamming (Cardio) squats&wide",
+            "choreoID": "cust_19ac0fd97df601ba30c887f2ad55634eace4fbcf27d7f5c4f403b025a82f394b",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 600.8800048828125
+        },
+        {
+            "songTitle": "DNA",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "6c1bf0903fe4581a88cf1fadac1e4f05dcd25461058cc14f659eafcd76583df3",
+            "choreoName": "Cardio",
+            "choreoID": "cust_21f86c6754791f7ce7bfa1f114d13b5ccd75b58a353e2a8f17fb383c6802b0bb",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 177.0514373779297
+        },
+        {
+            "songTitle": "Dominick the Donkey Dance Remix",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "6779bd13f092e6b607b107589ac756a4e505acffdc2b8ce129f455f29d6a4bc4",
+            "choreoName": "Donkey legs for Christmas",
+            "choreoID": "cust_9935e0d24c9db886c4b8bb2ce977a33645e39af2fe84a5e1d475aa4bb2713aeb",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 131.10072326660157
+        },
+        {
+            "songTitle": "Emotion",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "050ece8b7adc5df1360457bf5771392b3b8444f531124a06fa11d4434613146e",
+            "choreoName": "Cardio",
+            "choreoID": "cust_b28afa615e35c5b5a5928235cd6a79b2991d74521d6939b31c5c084a9779f268",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 186.91378784179688
+        },
+        {
+            "songTitle": "Eye Of The Tiger Remix",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "3437d880747ac2c71a141a7fd8cfafb650f40944951a67700738c22cac4f3cb3",
+            "choreoName": "Same but HARDER!!",
+            "choreoID": "cust_cc940636cc34dab87dde1f8c5afa6428b97c611711fe98b598d15487729276a3",
+            "choreoIndex": 1,
+            "mode": 2,
+            "length": 238.0933074951172
+        },
+        {
+            "songTitle": "Feels Like Home",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "b2688c7ce3a195becb893e7cc7a37bafe65bb583a28e7232dba3288cad7a93c8",
+            "choreoName": "Cardio",
+            "choreoID": "cust_0e361c68c89b5d8c21fcdbb621a582b3545b5b9cb7f82cb5b3bb35af88a663f2",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 220.74513244628907
+        },
+        {
+            "songTitle": "harder, better, faster, stronger",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "62489433f57718b2aaad260f58eb18eff20a12361802228a3c56bb7c42f31d0b",
+            "choreoName": "Cardio",
+            "choreoID": "cust_418221f3a10ec470969a766aeed290481159c5c2a64caccbc940c2ba928f8a04",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 226.3809814453125
+        },
+        {
+            "songTitle": "Hot Topic",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "8ad78918a43a55f078255fce719c420876940a66a380a313a865280aae4d51d9",
+            "choreoName": "Cardio",
+            "choreoID": "cust_25e26902aa66b41e32eee125bcb6a4a2704e4f207303f7953549d847bd04c466",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 220.45579528808595
+        },
+        {
+            "songTitle": "I Am The Stripclub [E]",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "5a2496b8de234318b019b5aff472715dad4172e9815ab476734e2a79284bb88c",
+            "choreoName": "Cardio",
+            "choreoID": "cust_4f48a5df29eea09c8fb203b56e88e9ff83ffa37621355fe3321ea85c470bc463",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 170.3907012939453
+        },
+        {
+            "songTitle": "I Need You",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "db579fc8f1f1e518398fb4dada76781907bdb387a8a0e8ad27620ce57a7775e0",
+            "choreoName": "Cardio",
+            "choreoID": "cust_89eff8046584c0e09a61af099162ebbc89e54e4ff7b71389b53da054761fe23f",
+            "choreoIndex": 2,
+            "mode": 2,
+            "length": 159.08633422851563
+        },
+        {
+            "songTitle": "i want to die",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "a28c83b6421b00987f3dcdc3861f86f45093525485749a69aa2a49dcb4a6d45e",
+            "choreoName": "Cardio",
+            "choreoID": "cust_e875965e2e4158c3b1f27c4367e5936831ba1ee84f0b982aaebf70db1067628b",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 307.95697021484377
+        },
+        {
+            "songTitle": "Jingle Bells",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "f62371399cc6ee8b0d537970b0ec5f557d914c5c4f8f8794d546ff247b316744",
+            "choreoName": "Gems and squats and jumps for Christmas",
+            "choreoID": "cust_cda8dd29bc13bcf715d4a9d3b4eb12f86b0a0ba962f0029c81680a56daf48f48",
+            "choreoIndex": 1,
+            "mode": 2,
+            "length": 242.8110809326172
+        },
+        {
+            "songTitle": "Let  Me Think About It",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "b48ea6926602db396d5c6e6f83f7721ac77f3bb0a237092fb4aa0eb2f3a93ca2",
+            "choreoName": "Cardio",
+            "choreoID": "cust_608438cfbae2246b746fbf8914bce5e694cc32bad6af1ff1fb119a0cb1bfac38",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 159.1658172607422
+        },
+        {
+            "songTitle": "Mickey",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "f8dccd9343fe4f857d8be4d860a139f47976274839665aaa294f033a51ed9a12",
+            "choreoName": "Cardio",
+            "choreoID": "cust_5445f5faf057cad86285b1eac985b3cfc0ec13ddd8a0b06e8d50fc5db61c52b2",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 225.90777587890626
+        },
+        {
+            "songTitle": "milk and cereal",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "b85848821e0708309e5be71ee49915f83e4dd90455428ba3543a0655bea1aea9",
+            "choreoName": "Cardio",
+            "choreoID": "cust_80e1a4d02b7316b31c461f0e79517abd6af726b47e42798cf868761bc86bf272",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 181.5066680908203
+        },
+        {
+            "songTitle": "Mini Game",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "7606e603c643b1b5ee501c38033bf4458de33a37e1497ae2d62f917c989667d9",
+            "choreoName": "Cardio+",
+            "choreoID": "cust_ce0a45d4d9e47d549b37090d0baa3671c5c8627e0b2ada825f0c80b6d7a95d9c",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 131.0506591796875
+        },
+        {
+            "songTitle": "Move Shake Drop [E]",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "c52eea9d2f14d193f6d104032ffedcc913ea60c4c549d1192938e4d9b6711cd0",
+            "choreoName": "Cardio",
+            "choreoID": "cust_e1f53ffd5999b05f775e4ce59ea41e002151bcbea208bdcff67efdb1bc2e3b44",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 265.7477722167969
+        },
+        {
+            "songTitle": "Now You're Gone",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "8497323f7acb706cd7a1e46c49225fe89787ee4fc5837d903c41763975b5deaa",
+            "choreoName": "cardio",
+            "choreoID": "cust_e9db94576b1dad34ece84d91f339ecf6364eef57a34911646954be884a6d11c9",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 151.66387939453126
+        },
+        {
+            "songTitle": "Ochame Kinou",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "e50058bdce7677a14deef22b149b7c90c9cd80bce2196856a2ebf837f74e70a7",
+            "choreoName": "I love you uwu[Squats]",
+            "choreoID": "cust_0971a46f67e15425529372c1aaafe32056a08ade7af3f27fd28ecde66bb95e7a",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 265.0044250488281
+        },
+        {
+            "songTitle": "One's Mind",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "2cee517fd83690ee6e6ffc78f1c670e7828e37bb480ddd55476e04bb3f5ae7f5",
+            "choreoName": "Birb",
+            "choreoID": "cust_40a7a78e8e7c62a369a2380c7e8ce616e806c74f9aa4285afc4de740704840b6",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 236.01010131835938
+        },
+        {
+            "songTitle": "Rainin' Fellas",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "58116034d9c3b02f0e8a7f46b4dad440055ad21bf175d865a83af361b0b21995",
+            "choreoName": "Cardio",
+            "choreoID": "cust_7eee4c41d131036842496434a19b9c349b6f4f6ae1433a5db1a03a5d61200a1a",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 198.54473876953126
+        },
+        {
+            "songTitle": "Rasputin",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "dbf92c8f4e2284ca872d159ca0d0581b50a53e2d31442d443452aaa385eec1b2",
+            "choreoName": "Cardio",
+            "choreoID": "cust_5d69d1f8a74ebaa2e071fc6e2c28f61466eeaca6d9675d1adc17206476af784c",
+            "choreoIndex": 1,
+            "mode": 2,
+            "length": 189.37501525878907
+        },
+        {
+            "songTitle": "Satisfaction Bitch",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "d7fea05ae4ecdaed17726d273b0da0749969140e6376d23fbb13e7589ad5057d",
+            "choreoName": "Cardio",
+            "choreoID": "cust_7e58d47fdd232cfce6a9fc437cacb4ed4d8d98b9529e475f578c4dafde2a8c2c",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 254.162109375
+        },
+        {
+            "songTitle": "Savage Love",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "a7e3b9553b894f1b5c2885068ee8f2af2c48c3c06dcc8c5fe2a51f3d1b55739d",
+            "choreoName": "Cardio",
+            "choreoID": "cust_4e1285be0ee1aa1f683be15a95ea414437b23a63cbe381008f75b686c4c017f9",
+            "choreoIndex": 1,
+            "mode": 2,
+            "length": 170.23016357421876
+        },
+        {
+            "songTitle": "Sax",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "48a356f39573a8b24112628de9f9a3699a4c8896cd95f3cc0964e41ae8bf85f6",
+            "choreoName": "Cardio",
+            "choreoID": "cust_5045380b902bb7cdea1491086b0273477be0cd57a01f3f610fc385f2019aa6c1",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 240.0
+        },
+        {
+            "songTitle": "Sex Machine",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "4aa1b20fbb481a00edb19555297dec40720cd425bee3ca510bf41766dce86578",
+            "choreoName": "Sexercise [Cardio]",
+            "choreoID": "cust_dddaf2cdb1e965d71997839aee1d84dc1bc9b5246b5b32911f3a4ddcc13ef5f2",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 145.04150390625
+        },
+        {
+            "songTitle": "SEXUAL (Li Da Di)",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "bc5d63ae111b38a07a2cf34e5b33be0046acfa2ec52670f33058fac50ef26c8e",
+            "choreoName": "Casual cardio exercise (squats)",
+            "choreoID": "cust_4c77717a3a9bf38785a39c52bf8cce7bcdc63803281fdff9363348bca9138acc",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 199.73805236816407
+        },
+        {
+            "songTitle": "Sexy B**ch [E]",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "cf3f01dfd130e0074427e87d5925587803eab0267605159a327bcbbc56fe0a59",
+            "choreoName": "Cardio",
+            "choreoID": "cust_c2f32f9af55dc0ebed52c0b0402e9cbd62185c5df20e6bf697195fdc0b6b1349",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 194.2340850830078
+        },
+        {
+            "songTitle": "Shake Your Groove Thing",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "2f741978c3d0a51ddacaf8eba61fe50c89133e885d4b50bdb6622f7141621b41",
+            "choreoName": "Cardio",
+            "choreoID": "cust_75b67ee0a9ed59d368fbf105131c2d5baf7f8a40ed9834dd74ed26fb2046d027",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 333.3883361816406
+        },
+        {
+            "songTitle": "Shake Your Groove Thing",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "7d2fa380336b4efb6a74cf8f4c849de0e051dcc07d520ca13c00cf82530297c5",
+            "choreoName": "Cardio",
+            "choreoID": "cust_b7622eaa96843ffa94d3c41a9dbb37ee50445652b0bcdf046b931459d20ae140",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 208.1646270751953
+        },
+        {
+            "songTitle": "Spooky Scary Skeletons",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "6a93a5d3fe67d3489fcf9e3a0fef67e72972ab96250c0b81635aea8a094aab7d",
+            "choreoName": "Spookiest☠️☠️☠️",
+            "choreoID": "cust_5d636182bc0d6d9fbf1ab4afa9a919861aec4cf01be1b083d186e1ff10e7a27e",
+            "choreoIndex": 1,
+            "mode": 2,
+            "length": 160.97235107421876
+        },
+        {
+            "songTitle": "Squats",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "6007f954b01791b9c6cab02cc9f52d21510acc7bc7692f77f3c581c6a96b6e42",
+            "choreoName": "Squats",
+            "choreoID": "cust_69242465cba448978800377d866fa95b1176d408f53f88a893a62be9d101ff3c",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 215.56117248535157
+        },
+        {
+            "songTitle": "Stop This Flame",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "9c7310aaf950d0f025a8cabb6dc704a0f86d41eb9b5fb03b438feb3a2f74e0f0",
+            "choreoName": "Cardio",
+            "choreoID": "cust_e076dd419f9ad1d9fa7a29a92607d97ac1584b9e65c92442974523a021d62071",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 203.9531707763672
+        },
+        {
+            "songTitle": "Telephone Number",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "0997c5dd7c8ddfb2891311ce7fba36ec2e497273100f5606e585be52890d2560",
+            "choreoName": "Awoooo!",
+            "choreoID": "cust_79b5d95bbdb4ab1b550f8dfcdd794a66c825638cc188e4c3ac573263ca301d59",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 239.4027557373047
+        },
+        {
+            "songTitle": "That's not my name",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "22e7b0730833db6ba7f173c0b5e91c1cc0cf0a696890c7ba08ddb539a06f9e21",
+            "choreoName": "cardio",
+            "choreoID": "cust_d4999e9dde406febca969bc74faba7b42ccb7207f120471d8cce07a1eb969044",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 223.93324279785157
+        },
+        {
+            "songTitle": "To Be The Best",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "a957b5784565d84a968e6cc8e609881e25c0784d76fcb8ffc20642e242d28510",
+            "choreoName": "Cardio/Expert+",
+            "choreoID": "cust_ac7d273b92f49baee57abed25921861db3b25e004439dbacb38e4646a2f79e63",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 62.235599517822269
+        },
+        {
+            "songTitle": "Tunak Tunak Tun",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "ab974889658ff1f5e84e336707d5154ccb539ac54c8a2b08ac118cc77def4fc3",
+            "choreoName": "Cardio",
+            "choreoID": "cust_080df785ab835f5d1294f0252e58f55664ccc8e69b4683be7d6c402e4b6ed141",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 303.1333312988281
+        },
+        {
+            "songTitle": "Vida Louca",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "fb95781661f9aa0b01ae98d5a62acac9f442f28d1a123db5a512de876b33f042",
+            "choreoName": "Zumba Cardio",
+            "choreoID": "cust_6d12ac026d11a6a73ed1d0ca3bd88e0643e4db72d3b87135c4fe58d62571f9c6",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 196.70753479003907
+        },
+        {
+            "songTitle": "WA&P Mashup [EXPLICIT]",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "886821d53f3bac686dbf960716e7fcd3b13a94cc3971c2f85549dbfc3a30a71b",
+            "choreoName": "Cardio",
+            "choreoID": "cust_94814e63b15e831fa3a022e9f50fe13e6ae69107ced35dc32b93e0971e833caf",
+            "choreoIndex": 0,
+            "mode": 2,
+            "length": 220.7037811279297
+        },
+        {
+            "songTitle": "Whatta Man",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "b168e6774f53c47c3babca41f3af9ee1a07873bec29282fbd5a06ac52c056526",
+            "choreoName": "Cardio Expert",
+            "choreoID": "cust_3dd2e956a8ebe6b9b8568e2810f3ae31d5e55915d6b5aa480c675a07f08049f9",
+            "choreoIndex": 1,
+            "mode": 2,
+            "length": 295.14373779296877
+        },
+        {
+            "songTitle": "Addicted To A Memory",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "3",
+            "choreoName": "Cardio",
+            "choreoID": "d6432e096a69c5f5b514a530c170dec66fc81e27b49dab7d9e8b1b672cf0e211",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 293.4463806152344
+        },
+        {
+            "songTitle": "Anemone",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "1",
+            "choreoName": "Cardio",
+            "choreoID": "c9f11ff517e1bf5b295f996bf111bd2ea1d79cb76d9ba352853c6fcbb4d2b9b6",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 327.80511474609377
+        },
+        {
+            "songTitle": "Back 'N' Forth",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "27",
+            "choreoName": "Cardio",
+            "choreoID": "55ffe0136087be240ec4382a1d9ad5471c32bb48beb227a520e7fb49152f7c85",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 185.29763793945313
+        },
+        {
+            "songTitle": "Bangarang",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "2",
+            "choreoName": "Cardio",
+            "choreoID": "04ce33c6327dce72579ad2dab9c39ed363a9cc7fe7f9fc8e9bb75355ae81d9cd",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 212.72726440429688
+        },
+        {
+            "songTitle": "Can't Take It (pt 2)",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "15",
+            "choreoName": "Cardio",
+            "choreoID": "c6619f20097c0b4e535f12ae8abce7b0f04801f69c3ffde15c491a2d608e6de2",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 164.70587158203126
+        },
+        {
+            "songTitle": "Caution (GOOD Remix)",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "28",
+            "choreoName": "Cardio",
+            "choreoID": "b15090c329d55b81655d2f2e8c4ed22794e6f3164c53764f803f0b9554780c15",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 183.3333282470703
+        },
+        {
+            "songTitle": "Dance Monkey",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "b983058f6236549d08f6d371044826da29bca4bd8d8b0f52073731112659109e",
+            "choreoName": "Cardio",
+            "choreoID": "601537e4ba8319a8cbf4e52f8274ef2e97f5bcdc6776c186a9573226fe9a7216",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 208.27816772460938
+        },
+        {
+            "songTitle": "Drift",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "9",
+            "choreoName": "Cardio",
+            "choreoID": "e20a284a30bfb086ed7dfabdc22615267173661d203d1538eb5ede21c77d111d",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 193.44271850585938
+        },
+        {
+            "songTitle": "Everybody Get Up",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "25",
+            "choreoName": "Cardio",
+            "choreoID": "c00d9a65e14cc6ac61d56b75a1e30857a766c11905c97fb45fd7cefc3c2d764b",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 109.09090423583985
+        },
+        {
+            "songTitle": "Freedom",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "16",
+            "choreoName": "Cardio",
+            "choreoID": "d951c1612dacedb7b276f82796bd542ccb22f10db71aa6ddf3d39b0f889d78fa",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 148.4745635986328
+        },
+        {
+            "songTitle": "Gangnam Style",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "21",
+            "choreoName": "Cardio",
+            "choreoID": "1484287de9455d2b22948ed94b1036a133f8e15310c722e303cf807670ed41aa",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 216.8181610107422
+        },
+        {
+            "songTitle": "Golden Pineapple",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "11",
+            "choreoName": "Cardio",
+            "choreoID": "330287b587218fb375af7c45b90148f439304dcbc769bfc4f5a0c1d797386459",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 159.27272033691407
+        },
+        {
+            "songTitle": "Hit the Beat",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "29",
+            "choreoName": "Expert",
+            "choreoID": "d3f1e8d8fa1c11049332b9a60022440caeb5081bf469415e0f18263706a59711",
+            "choreoIndex": 2,
+            "mode": 1,
+            "length": 201.89999389648438
+        },
+        {
+            "songTitle": "I've Been Thinkin",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "23",
+            "choreoName": "Cardio",
+            "choreoID": "bb1538f8590555ba367fe7cad4ef148099721e0ef64c3b572688a8bc4a456389",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 213.8095245361328
+        },
+        {
+            "songTitle": "Jurassic Snack Pack",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "4",
+            "choreoName": "Cardio",
+            "choreoID": "0be75395aaf8fb3f1cb94edc9bbe0223bae0274ff278c55ddb6631b4396bfe49",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 375.2307434082031
+        },
+        {
+            "songTitle": "Just Dance",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "8",
+            "choreoName": "Cardio",
+            "choreoID": "620890b913702b6827c85c0c49d0fb35ee3e24ac01650d22fdd39399ac667504",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 238.48739624023438
+        },
+        {
+            "songTitle": "Keep My Cool",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "17",
+            "choreoName": "Cardio",
+            "choreoID": "752e435b5f3495230aeafb44a21f60424a37c43dc5e02ff3471c864cf309dbb9",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 175.1729278564453
+        },
+        {
+            "songTitle": "Krishna",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "1a6e5b76b8bc68e311965123ae9f7adb670c1069b47884fc68d85b5adb823ea1",
+            "choreoName": "Cardio",
+            "choreoID": "7c4e34440f10f4615bf952598a150288385853cad418c0d8d1daf7b5b2e764af",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 159.06219482421876
+        },
+        {
+            "songTitle": "Makamba",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "20",
+            "choreoName": "Cardio",
+            "choreoID": "9acc78debd2868c4f26f9dc1717d350b580532ca97f9ff88b49183278cdd298a",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 126.6656265258789
+        },
+        {
+            "songTitle": "Mandala",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "5",
+            "choreoName": "Cardio",
+            "choreoID": "d0cbe7716e281714030e9210f3105fa3de1c79e6156225e600b1103e70c178ab",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 349.0909118652344
+        },
+        {
+            "songTitle": "Mini Me (GOOD Remix)",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "24",
+            "choreoName": "Cardio",
+            "choreoID": "5b11c339aee559bd1acd6e2f01838524c425ed98ad5e7b119204b7b46af5a076",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 140.1818084716797
+        },
+        {
+            "songTitle": "Mythologica",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "30",
+            "choreoName": "Cardio",
+            "choreoID": "9e695f43a2b9e59235a6ef13ad11e6342c8d316b0eb6137744718b7724c05320",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 153.8697052001953
+        },
+        {
+            "songTitle": "Red",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "0",
+            "choreoName": "Cardio",
+            "choreoID": "7349da75b75f859324e9e7e42300ea07878b336081823d02df50640906a3f250",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 451.60498046875
+        },
+        {
+            "songTitle": "Satisfaction",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "6",
+            "choreoName": "Cardio",
+            "choreoID": "d047af3cdc8560ce52169daa733e5932878a997b3041ebbc985e8526f9a5fc33",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 284.76922607421877
+        },
+        {
+            "songTitle": "Show Me",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "10",
+            "choreoName": "Cardio",
+            "choreoID": "3ecd4a19aca9ff456b4713e9eeab6af79cd743be95773342bc910b5810f2e60d",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 169.85728454589845
+        },
+        {
+            "songTitle": "SIDthesize",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "19",
+            "choreoName": "Cardio",
+            "choreoID": "654fec3d7591a8d4e960794eaeae95e332e78fc53758a9b4b55f1b239100fde6",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 192.0
+        },
+        {
+            "songTitle": "Sofi Needs A Ladder",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "7",
+            "choreoName": "Cardio",
+            "choreoID": "13ce167a5cb79858142b1db84a4e82c7e374b65d9d59327163eb6cb937b55a5c",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 334.12396240234377
+        },
+        {
+            "songTitle": "Take It to the Top",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "26",
+            "choreoName": "Cardio",
+            "choreoID": "a330ec9626cd22bb84f49734815b62e497564df547811946807a6b047125ec45",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 198.42518615722657
+        },
+        {
+            "songTitle": "Technicolor Love",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "22",
+            "choreoName": "Cardio",
+            "choreoID": "2d8598e8982c17aa6f6fcc3191e5032df2b0ded0dbbc2579f48d65664a3b5854",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 212.0
+        },
+        {
+            "songTitle": "X-TYPE",
+            "song": {
+                "m_FileID": 0,
+                "m_PathID": 0
+            },
+            "songID": "12",
+            "choreoName": "Cardio",
+            "choreoID": "5d6ec8f1e78501c98e72c940d97598b02aba35888cfaf61fc69d80f6bf40ec1c",
+            "choreoIndex": 3,
+            "mode": 1,
+            "length": 221.5384521484375
+        }
+    ],
+    "totalDuration": 17927.4560546875,
+    "choreoType": 0,
+    "isBuiltIn": false
+}
